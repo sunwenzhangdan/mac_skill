@@ -35,7 +35,6 @@ sync=pull+push
 
 
 
-
 **vimium**
 快捷键
 x 关闭当前tab页  X  恢复刚才关闭的tab页
